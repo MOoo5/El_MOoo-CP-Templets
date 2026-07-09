@@ -100,3 +100,4 @@ Otherwise, the infinite series does **not** have a finite sum.
 ---
 *Sammary*
 ![alt text](image.png)
+//
